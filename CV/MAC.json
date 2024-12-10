@@ -125,23 +125,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "AGAPA"
-        },
-        "roles": [
-          {
-            "name": "Marketing Technician",
-            "startDate": "2001-09-01",
-            "finishDate": "2011-02-28",
-            "challenges": [
-              {
-                "description": "Web development PHP/ASP/.NET/Oracle 10g/AJAX"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
