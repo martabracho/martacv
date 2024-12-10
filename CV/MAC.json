@@ -145,23 +145,6 @@
       },
       {
         "organization": {
-          "name": "Masa Huelva"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2000-12-01",
-            "finishDate": "2001-03-31",
-            "challenges": [
-              {
-                "description": "Access Development"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Sistelcom Telemensaje"
         },
         "roles": [
