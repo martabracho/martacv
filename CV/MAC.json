@@ -142,23 +142,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Sistelcom Telemensaje"
-        },
-        "roles": [
-          {
-            "name": "Computer Operator",
-            "startDate": "1994-09-01",
-            "finishDate": "1998-05-31",
-            "challenges": [
-              {
-                "description": "Skills: Persistence"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
