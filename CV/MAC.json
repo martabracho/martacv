@@ -159,23 +159,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Telefonica Sistemas"
-        },
-        "roles": [
-          {
-            "name": "Computer Operator",
-            "startDate": "1992-04-01",
-            "finishDate": "1992-10-31",
-            "challenges": [
-              {
-                "description": "Skills: Persistence"
-              }
-            ]
-          }
-        ]
       }
     ],
     "publicArtifacts": [
