@@ -9,7 +9,7 @@
       "name": "Marta",
       "surnames": "Bracho Núñez",
       "title": "Software Developer at Agencia Digital de Andalucía",
-      "description": "Como software developer tengo una carrera peculiar durante la cual he tenido la oportunidad  de trabajar con diversas tecnologías, y aunque no he llegado al nivel experto en ninguna de ellas, gracias a la gran variedad de trabajos que he realizado tengo una visión muy amplia del sector. Mi curva de aprendizaje, con los años, se ha agilizado bastante, por lo que me siento capaz de aportar algo a cualquier nueva tecnología en poco tiempo. Paralelamente a mi vida profesional, he realizado estudios oficiales de informática para afianzar mis conocimientos. Me gusta trabajar en equipo, pero también rindo bastante bien trabajando de forma independiente. Los rasgos que me caracterizan son, la creatividad, la curiosidad por seguir aprendiendo, la responsabilidad, la empatía y la constancia. Soy una persona con variadas experiencias vitales por lo que puedo aportar diversidad a cualquier equipo humano. Mi intención es trabajar en remoto, aunque tengo\nposibilidad de reunirme por videoconferencia semanalmente y de desplazarme puntualmente a algún evento concreto a la oficina.",
+      "description": "Como software developer tengo una carrera peculiar durante la cual he tenido la oportunidad  de trabajar con diversas tecnologías, y aunque no he llegado al nivel experto en ninguna de ellas, gracias a la gran variedad de trabajos que he realizado tengo una visión muy amplia del sector. Mi curva de aprendizaje, con los años, se ha agilizado bastante, por lo que me siento capaz de aportar algo a cualquier nueva tecnología en poco tiempo. Paralelamente a mi vida profesional, he realizado estudios oficiales de informática para afianzar mis conocimientos. Me gusta trabajar en equipo, pero también rindo bastante bien trabajando de forma independiente. Los rasgos que me caracterizan son, la creatividad, la curiosidad por seguir aprendiendo, la responsabilidad, la empatía y la constancia. Soy una persona con variadas experiencias vitales por lo que puedo aportar diversidad a cualquier equipo humano. Mi intención es trabajar en remoto, aunque tengo\nposibilidad de reunirme por videoconferencia periódicamente y de desplazarme puntualmente a algún evento concreto a la oficina.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/29/02c8940c-8247-4bdf-a340-5329b710ac53_linkedin-photo-59298.linkedin-photo-59298",
         "alt": "24/08/29/02c8940c-8247-4bdf-a340-5329b710ac53_linkedin-photo-59298.linkedin-photo-59298"
@@ -363,9 +363,6 @@
           "URL": "https://github.com/martabracho",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "martabracho@gmail.com"
       ]
     },
     "preferences": {
