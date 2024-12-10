@@ -194,6 +194,27 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Web Pleamar",
+          "description": "Publicación de la web Pleamar en drupal, con un portal de datos abiertos desarrollado con CKAN en uno de sus apartados.",
+          "URL": "https://ws229.juntadeandalucia.es/agenciaagrariaypesquera/pleamar/portal/"
+        },
+        "type": "launch",
+        "publishingDate": "2024-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Drupal",
+            "type": "technology"
+          },
+          {
+            "name": "Spring Boot",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
