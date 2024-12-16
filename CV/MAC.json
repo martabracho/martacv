@@ -127,6 +127,35 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "Cruces Sevilla App",
+          "description": "Jetpack Compose to assist the traffic light crossings location in the city on Seville. This App pretends to help the traffic light technicians to locate faster the breakdowns."
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-03-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "JetPack",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -400,6 +429,11 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "Valoro mucho tener flexibilidad horaria total, aunque no tengo problema por tener reuniones con una periodicidad razonable. Me gusta trabajar en equipo para compartir conocimientos, pero también estoy cómoda trabajando sola. Me gustaría, sobre todo, participar en proyectos con un trasfondo social, educativo o de servicio público.\n\nI highly value having complete schedule flexibility, although I have no problem with having meetings at a reasonable frequency. I enjoy working in a team to share knowledge, but I am also comfortable working alone. I would especially like to participate in projects with a social, educational, or public service background."
+    "desiredJobDescription": "Valoro mucho tener flexibilidad horaria total, aunque no tengo problema por tener reuniones con una periodicidad razonable. Me gusta trabajar en equipo para compartir conocimientos, pero también estoy cómoda trabajando sola. Me gustaría, sobre todo, participar en proyectos con un trasfondo social, educativo o de servicio público.\n\nI highly value having complete schedule flexibility, although I have no problem with having meetings at a reasonable frequency. I enjoy working in a team to share knowledge, but I am also comfortable working alone. I would especially like to participate in projects with a social, educational, or public service background.",
+    "projects": [
+      {
+        "name": "Cruces Sevilla App"
+      }
+    ]
   }
 }
