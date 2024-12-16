@@ -154,6 +154,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Homer Project",
+          "description": "Participation in the Homer Project Hackatón in Sevilla, including the colaboration in the creation of the android app 'Explora'.",
+          "URL": "http://homerproject.eu/homer-apps/andalucia-apps",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/12/16/6e525550-0a99-41d6-8aa7-456b09a35355_screenshot_2014-05-1.png",
+            "alt": "Screenshot_2014-05-18-10-45-23.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2014-05-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2014-05-01"
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -433,6 +466,9 @@
     "projects": [
       {
         "name": "Cruces Sevilla App"
+      },
+      {
+        "name": "Homer Project"
       }
     ]
   }
